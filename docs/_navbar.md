@@ -25,3 +25,9 @@
   * [Developer Tools](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_02-developer-tools)
   * [Javascript tools](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_03-javascript-tools)
   * [Events and the DOM](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_04-events-and-the-dom)
+
+* Advanced UI
+  * [Custom Properties](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_01-custom-properties)
+  * [Sass](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_02-sass)
+  * [Advanced Sass](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_03-advanced-sass)
+  * [Advanced HTML](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_04-advanced-html)
