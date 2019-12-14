@@ -1,6 +1,4 @@
-# Advanced User Interface
-
-## Custom Properties
+# 01. Custom Properties
 
 **Custom properties** (sometimes referred to as CSS variables) are variables defined by CSS authors that contain specific values to be reused throughout a document (similar to JS variables). They are set using custom property notation (e.g., `--main-color: black;`) and are accessed using the var() function (e.g., `color: var(--main-color);`).
 
@@ -105,7 +103,7 @@ div {
 
 ```
 
-# Sass
+# 02. Sass
 
 !> Please open this website to follow this lesson: https://www.sassmeister.com/
 
@@ -178,7 +176,7 @@ Get a CSS file from a previous project and try to convert it (or part of it) to 
 
 Can you spot difference between custom properties and sass variables?
 
-# Advanced Sass
+# 03. Advanced Sass
 
 ?> To follow this part you should install a Sass compiler:
 
@@ -354,7 +352,7 @@ Add mixins to your project and avoid repeating code. Remeber that mixins have a 
 
 A proffesional guide to read with all the information about Sass: https://sass-guidelin.es
 
-# Advanced HTML
+# 04. Advanced HTML
 
 ## Pug
 
