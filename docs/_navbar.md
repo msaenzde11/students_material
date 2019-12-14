@@ -31,3 +31,9 @@
   * [Sass](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_02-sass)
   * [Advanced Sass](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_03-advanced-sass)
   * [Advanced HTML](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_04-advanced-html)
+
+* Advanced JS
+  * [Arrays in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_01-arrays-in-depth)
+  * [Functions in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_02-functions-in-depth)
+  * [Objects in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_03-objects-in-depth)
+  * [Api calls](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_04-api-calls)
