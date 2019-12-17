@@ -10,7 +10,6 @@ When a web page is loaded, the browser creates a [DOM](https://developer.mozilla
 
 ## Basic HTML structure
 
-
 This is the basic structure of an HTML page
 
 ```html
@@ -24,7 +23,7 @@ This is the basic structure of an HTML page
         <h1>Welcome to HTML!</h1>
     </body>
 </html>
-``` 
+```
 
 Let's read it:
 
@@ -32,7 +31,7 @@ Let's read it:
 1. Then, our entire web page needs to be wrapped in `<html>` tags. Ensure that the tag is opened (`<html>`) and closed (`</html>)`. Everything inside this tag will be our HTML page.
 1. Then, the HTML is divided in two tags: `head` and `body`
     1. `Head`: A web page’s head contains all of its metadata, like the page title, any CSS stylesheets, and other things that are required to render the page but you don’t necessarily want the user to see.
-    1. The bulk of our HTML markup will live in the <body> element, which represents the visible content of the page.
+    1. The bulk of our HTML markup will live in the `<body>` element, which represents the visible content of the page.
 
 ## HTML elements
 
@@ -71,9 +70,22 @@ Comments are parts of our HTML that will not be visible to the user. It is used 
     <!-- This won't be visible but will be in our code -->
 ```
 
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Introduction to HTML elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+1. [Say Hello to HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements)
+1. [Headline with the h2 Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element)
+1. [Inform with the Paragraph Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element)
+1. [Fill in the Blank with Placeholder Text](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/fill-in-the-blank-with-placeholder-text)
+1. [Uncomment HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/uncomment-html)
+1. [Comment out HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/comment-out-html)
+1. [Delete HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/delete-html-elements)
+
 ## Hands on!
 
-Create a new file `index.html` and add the previous HTML. Play with it: add tags, add comments and open it in your browser to see how it looks. 
+Create a new file `index.html` and add the previous HTML. Play with it: add tags, add comments and open it in your browser to see how it looks.
 
 It is your first website!
 
@@ -116,7 +128,7 @@ There are many more tags available inside the `head` tag. You can check a lot of
 
 ## HTML Landmarks
 
-HTML landmarks are tags in your page to define areas like the main content or a navigation region. It defines semantically the website and also helps users using assitive technologies to navigate comfortably through the website. 
+HTML landmarks are tags in your page to define areas like the main content or a navigation region. It defines semantically the website and also helps users using assitive technologies to navigate comfortably through the website.
 
 ?> Landmarks define the outer structure of our website, defining the areas of the page based on its responsibility
 
@@ -221,6 +233,17 @@ Tags can be nested inside of other tags. To maintain readable code, the parent t
 
 HTML should be validated to ensure that we are writing 100% valid HTML. HTML is standarized by the W3C and has an available validator at [W3C - Markup Validation Service](https://validator.w3.org)
 
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Introduction to HTML5 Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements)
+1. [Add Images to Your Website](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-images-to-your-website)
+1. [Link to External Pages with Anchor Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements)
+1. [Link to Internal Sections of a Page with Anchor Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
+1. [Nest an Anchor Element within a Paragraph](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
+1. [https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link)
+
 ## Hands on!
 
 Using the html structure, some of the landmarks, and the html elements learned, create a text-only page with your curriculum Vitar. Remember to be exhaustive describing every part of your CV!
@@ -285,7 +308,7 @@ Read more information about [Images at MDN](https://developer.mozilla.org/en-US/
 
 ## Description list `<dd>` and description term `<dt>`
 
-The purpose of these lists is to mark up a set of items and their associated descriptions, such as terms and definitions, or questions and answers. 
+The purpose of these lists is to mark up a set of items and their associated descriptions, such as terms and definitions, or questions and answers.
 
 ```html
 <dl>
@@ -341,7 +364,7 @@ Use the tags you learned in this class to add some images, quotes, descriptions.
 Create a skeleton of different webpages:
     1. A newsletter.
     2. A shopping page.
-    3. A blog.  
+    3. A blog.
 
 # 04. Forms
 
@@ -513,7 +536,7 @@ Elements of type `<checkbox>` are rendered by default as square boxes that are c
 
 ## The `radio` input type
 
-elements of type radio  are similar to checkboxes with the singularity that only one radio button in a given group can be selected at the same time. 
+elements of type radio  are similar to checkboxes with the singularity that only one radio button in a given group can be selected at the same time.
 
 ```html
 <form action="url" method="post">
