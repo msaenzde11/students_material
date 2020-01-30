@@ -83,12 +83,6 @@ Comments are parts of our HTML that will not be visible to the user. It is used 
 1. [Comment out HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/comment-out-html)
 1. [Delete HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/delete-html-elements)
 
-## Hands on!
-
-Create a new file `index.html` and add the previous HTML. Play with it: add tags, add comments and open it in your browser to see how it looks.
-
-It is your first website!
-
 # 02. HTML structure and basic tags
 
 Let's review the basic HTML structure again
@@ -242,15 +236,7 @@ HTML should be validated to ensure that we are writing 100% valid HTML. HTML is 
 1. [Link to External Pages with Anchor Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements)
 1. [Link to Internal Sections of a Page with Anchor Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
 1. [Nest an Anchor Element within a Paragraph](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
-1. [https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link)
 
-## Hands on!
-
-Using the html structure, some of the landmarks, and the html elements learned, create a text-only page with your curriculum Vitar. Remember to be exhaustive describing every part of your CV!
-
-Remember it should include an introduction, skills, experience, strong importance text, some info about your hobbies...etx.
-
-Ensure that your code is validated though the W3C.
 
 # 03. HTML advanced elements and properties
 
@@ -353,18 +339,14 @@ The HTML `<span>` element is a generic inline container for phrasing content, wh
 
 The HTML Content Division element `<div>` is the generic container for flow content. It has no effect on the content or layout until styled using CSS. As a "pure" container, the <div> element does not inherently represent anything.
 
-## Hands on!
+## Exercises on FreecodeCamp
 
-Add a navigation area into your website. Link to other websites, to other parts of your site or to other pages in your website. You can also divide your website in different files and link them.
-
-Use the tags you learned in this class to add some images, quotes, descriptions...etc.
-
-## Advanced exercise
-
-Create a skeleton of different webpages:
-    1. A newsletter.
-    2. A shopping page.
-    3. A blog.
+1. [Turn an Image into a Link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link)
+1. [Create a Bulleted Unordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list)
+1. [Create an Ordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-an-ordered-list)
+1. [Nest Many Elements within a Single div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
+1. [Declare the Doctype of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document)
+1. [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
 
 # 04. Forms
 
@@ -554,21 +536,27 @@ elements of type radio  are similar to checkboxes with the singularity that only
 </form>
 ```
 
-## Hands on!
-
-Remember that we are still using HTML, so use the full potential of HTML: sections, lists, strong..etc.
-
-### Basic exercise: contact form
-
-Create a contact form in your website. Ask the user for: name, email, date of birth and comments.
-
-### Advanced exercise: payment form
-
-Create a payment form. It should ask the user for: name,email, password, card type, card number and expiration date.
-
 ## Resources
 
 - [The HTML `form` element in MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [The HTML `input` element in MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 - [The HTML `label` element in MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 - [The HTML `button` element in MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
+
+## Exercises on FreecodeCamp
+
+1. [Create a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field)
+1. [Add Placeholder Text to a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field)
+1. [Create a Form Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element)
+1. [Add a Submit Button to a Form](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
+1. [Use HTML5 to Require a Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field)
+1. [Create a Set of Radio Buttons](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
+1. [Create a Set of Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
+1. [Use the value attribute with Radio Buttons and Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
+1. [Check Radio Buttons and Checkboxes by Default](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default)
+
+# HTML section exercises
+
+1. 
+1. [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+1. [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
