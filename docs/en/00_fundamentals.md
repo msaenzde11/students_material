@@ -9,6 +9,57 @@ To start with the course, let's do a very simple assignment. We're going to enco
 
 Don't worry if some concepts are strange to you (they surely will), we'll be talking about them throughout the course. Just make sure that you kind of understand concepts like HTTP protocols or how HTML&CSS works.
 
+# Front-End developer
+
+A front-end web developer is responsible for implementing visual and interactive elements that users engage with through their web browser when using a web application. They are usually supported by back-end web developers, who are responsible for server-side application logic and integration of the work front-end developers do. (1)
+![What is Front End](../assets/what-is-front-dev.png)
+
+The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-platform) and different devices (cross-device), which requires careful planning on the side of the developer. (2)
+
+(1) Front-End Web Developer Job Description Template
+(2) What Is a Front-End Developer? · Front-End Developer Handbook 2018
+ 
+## Front-End Jobs Titles (3)
+Below is a list and description of various front-end job titles. The common, or most used (i.e., generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how.
+
+**Front-End Developer**
+The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+
+**Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer)**
+The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires a computer science degree and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end applications).
+
+**CSS/HTML Developer**
+The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and Application know how.
+
+**Front-End Web Designer**
+When the word "Designer" is included in the job title, this will denote that the designer will posses front-end skills (i.e., HTML & CSS) but also professional design (Visual Design and Interaction Design) skills.
+
+ 
+**Web/Front-End User Interface (aka UI) Developer/Engineer**
+When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
+
+**Mobile/Tablet Front-End Developer**
+When the word "Mobile" or "Tablet" is included in the job title, this will denote that the developer has experience developing front-ends that run on mobile or tablet devices (either natively or on the web platform, i.e., in a browser).
+
+**Front-End SEO Expert**
+When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy.
+
+**Front-End Accessibility Expert**
+When the word "Accessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
+
+**Front-End Dev. Ops**
+When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and measurement.
+
+**Front-End Testing/QA**
+When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
+
+## Making a Front End Developer (4)
+
+![What is Front End](../assets/what-is-front-dev.png)
+
+(3) Front-End Jobs Titles · Front-End Developer Handbook 2018
+(4) How FDs Are Made · Front-End Developer Handbook 2018
+
 Now let's see how you can speed up your development with the Command Line Interface.
 
 # The command line or terminal interface
