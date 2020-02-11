@@ -12,12 +12,13 @@ Don't worry if some concepts are strange to you (they surely will), we'll be tal
 # Front-End developer
 
 A front-end web developer is responsible for implementing visual and interactive elements that users engage with through their web browser when using a web application. They are usually supported by back-end web developers, who are responsible for server-side application logic and integration of the work front-end developers do. (1)
-![What is Front End](../assets/what-is-front-dev.png)
+
+<img src='/en/assets/what-is-front-end-dev.png'></img>
 
 The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-platform) and different devices (cross-device), which requires careful planning on the side of the developer. (2)
 
-(1) Front-End Web Developer Job Description Template
-(2) What Is a Front-End Developer? · Front-End Developer Handbook 2018
+* (1) [Front-End Web Developer Job Description Template](https://www.toptal.com/front-end/job-description)
+* (2) [What Is a Front-End Developer? · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
  
 ## Front-End Jobs Titles (3)
 Below is a list and description of various front-end job titles. The common, or most used (i.e., generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how.
@@ -55,10 +56,10 @@ When the word "Testing" or "QA" is included in the job title, this will denote t
 
 ## Making a Front End Developer (4)
 
-![What is Front End](../assets/what-is-front-dev.png)
+<img src='/en/assets/makingFED.png'></img>
 
-(3) Front-End Jobs Titles · Front-End Developer Handbook 2018
-(4) How FDs Are Made · Front-End Developer Handbook 2018
+* (3) [Front-End Jobs Titles · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/practice/types-of-front-end-dev.html)
+* (4) [How FDs Are Made · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/practice/making-fd.html)
 
 Now let's see how you can speed up your development with the Command Line Interface.
 
