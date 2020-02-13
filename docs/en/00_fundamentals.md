@@ -13,7 +13,7 @@ Don't worry if some concepts are strange to you (they surely will), we'll be tal
 
 A front-end web developer is responsible for implementing visual and interactive elements that users engage with through their web browser when using a web application. They are usually supported by back-end web developers, who are responsible for server-side application logic and integration of the work front-end developers do. (1)
 
-<img src='assets/what-is-front-end-dev.png'></img>
+![what-is-front-end-dev](./assets/what-is-front-end-dev.png "what-is-front-end-dev")
 
 The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-platform) and different devices (cross-device), which requires careful planning on the side of the developer. (2)
 
@@ -57,7 +57,7 @@ When the word "Testing" or "QA" is included in the job title, this will denote t
 
 ## Making a Front End Developer (4)
 
-<img src='assets/makingFED.png'></img>
+![makingFED](./assets/makingFED.png "making a FED")
 
 * (4) [How FDs Are Made · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/practice/making-fd.html)
 
