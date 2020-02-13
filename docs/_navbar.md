@@ -1,10 +1,9 @@
 * Prework
 
+  * [Basic file system knowledge](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=basic-file-system-knowledge)
   * [How the web works?](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=how-the-web-works)
   * [Front End Developer](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=front-end-developer)
   * [The command line](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=the-command-line-or-terminal-interface)
-  * [Git](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=git)
-  * [Three Doors Exercise](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=three-doors-exercise)
 
 * HTML
   * [Introduction to HTML](https://mfrcodingproject.github.io/students_material/#/en/01_html?id=_01-introduction-to-html)
@@ -38,3 +37,7 @@
   * [Functions in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_02-functions-in-depth)
   * [Objects in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_03-objects-in-depth)
   * [Api calls](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_04-api-calls)
+
+* Git
+  * [Git](https://mfrcodingproject.github.io/students_material/#/en/07_git?id=git)
+  * [Three Doors Exercise](https://mfrcodingproject.github.io/students_material/#/en/07_git?id=three-doors-exercise)
