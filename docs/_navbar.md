@@ -1,6 +1,7 @@
 * Prework
 
   * [How the web works?](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=how-the-web-works)
+  * [Front End Developer](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=front-end-developer)
   * [The command line](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=the-command-line-or-terminal-interface)
   * [Git](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=git)
   * [Three Doors Exercise](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=three-doors-exercise)
