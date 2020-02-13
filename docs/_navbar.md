@@ -1,5 +1,6 @@
 * Prework
 
+  * [Basic file system knowledge](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=basic-file-system-knowledge)
   * [How the web works?](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=how-the-web-works)
   * [Front End Developer](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=front-end-developer)
   * [The command line](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=the-command-line-or-terminal-interface)

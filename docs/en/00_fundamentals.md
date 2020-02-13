@@ -1,8 +1,17 @@
 # Prework
 
+# Basic file system knowledge
+
+To start with the course, let's do a very simple assignment. We're going to encourage you to watch a couple of videos. These are a basic introduction to what files and folders - also called directories - are and how we can use them. If you already have experience with them, feel free to skip this part, but we encourage you to take a look at them!
+
+- [Basic file management system - Pt 1 - Concepts & Extensions](https://www.youtube.com/watch?v=k-EID5_2D9U)
+- [Basic file management system - Pt 2 - Nesting & Sorting](https://www.youtube.com/watch?v=DGd48PGbnBs)
+
+The appearence of what you see in these videos might not be exactly the same you find in your computers, but don't worry, the idea is exactly the same one :)
+
 # How the web works
 
-To start with the course, let's do a very simple assignment. We're going to encourage you to watch these videos:
+Below there are a couple of videos that will give you a sense of how the internet works behind the scenes. We're not expecting you to understand everything mentioned there, but just that some concepts look familiar to you :) Enjoy!
 
 - [How the Internet Works for Developers - Pt 1 - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ&t=5s)
 - [How the Internet Works for Developers - Pt 2 - Servers & Scaling](https://www.youtube.com/watch?v=FTAPjr7vgxE)
