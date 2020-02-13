@@ -1,5 +1,9 @@
 # Prework
 
+!> You are looking at the prework of the MFR Coding course. **You will find some videos which are completely in english. Remember that you can use the YouTube tools to add subtitles and even translate them in case you need them!**. They are in the bottom right corner of the video!
+
+![subtitles-youtube](./assets/subtitles-youtube.png "how to enable subtitles at youtube")
+
 # Basic file system knowledge
 
 To start with the course, let's do a very simple assignment. We're going to encourage you to watch a couple of videos. These are a basic introduction to what files and folders - also called directories - are and how we can use them. If you already have experience with them, feel free to skip this part, but we encourage you to take a look at them!
