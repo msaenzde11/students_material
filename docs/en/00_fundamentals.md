@@ -13,7 +13,7 @@ Don't worry if some concepts are strange to you (they surely will), we'll be tal
 
 A front-end web developer is responsible for implementing visual and interactive elements that users engage with through their web browser when using a web application. They are usually supported by back-end web developers, who are responsible for server-side application logic and integration of the work front-end developers do. (1)
 
-<img src='/en/assets/what-is-front-end-dev.png'></img>
+<img src='assets/what-is-front-end-dev.png'></img>
 
 The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-platform) and different devices (cross-device), which requires careful planning on the side of the developer. (2)
 
@@ -53,11 +53,12 @@ When the word "DevOps" is included in the job title, this will denote that the d
 **Front-End Testing/QA**
 When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
 
-## Making a Front End Developer (4)
-
-<img src='/en/assets/makingFED.png'></img>
-
 * (3) [Front-End Jobs Titles · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/practice/types-of-front-end-dev.html)
+
+## Making a Front End Developer (4)
+
+<img src='assets/makingFED.png'></img>
+
 * (4) [How FDs Are Made · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/practice/making-fd.html)
 
 Now let's see how you can speed up your development with the Command Line Interface.
