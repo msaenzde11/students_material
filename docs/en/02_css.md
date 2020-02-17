@@ -150,11 +150,18 @@ Comments are parts of our CSS that will not affect the HTML. It is used to write
     /* This is a CSS comment */
 ```
 
-## Hands on
+## Exercises on FreecodeCamp
 
-Create a new file `style.css` in a folder named styles next to your `index.html` and link the external CSS and the HTML. Add some styles to your HTML by creating selectors and properties. Just for fun, see what you can do. If you don't know CSS attributes, search online.
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
 
-Style your website!!
+1. [Change the Color of Text](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text)
+1. [Use CSS Selectors to Style Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selectors-to-style-elements)
+1. [Headline with the h2 Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element)
+1. [Inform with the Paragraph Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element)
+1. [Fill in the Blank with Placeholder Text](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/fill-in-the-blank-with-placeholder-text)
+1. [Uncomment HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/uncomment-html)
+1. [Comment out HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/comment-out-html)
+1. [Delete HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/delete-html-elements)
 
 # 02. CSS selectors
 
@@ -343,74 +350,22 @@ This selector will apply to everything.
 
 ?> There are many more selectors! Check all of them here: [https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
-## Hands on
+## Exercises on FreecodeCamp
 
-Learn to use CSS selectors:
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
 
-  1. Copy the content of the file `selectors.html`
-  2. Link an external stylesheet named `selectors.css`
-    * Give the `<body>` element a background of `#bdc3c7`
-    * Give the `<h1>` element a color of `#9b59b6`
-    * Make all `<h2>` elements orange
-    * Make all `<li>` elements blue
-    * Change the background on every paragraph to be yellow
-    * Give everything with the class `'hello'` a white background
-    * Give the element with id `'special'` a 2px solid blue border
-    * Make only inputs with type 'text' have a gray background
-    * Make all the `<p>` that are nested inside of `<div>` 25px font
-    * Make all "checked" checkboxes have a left margin of 50px
-
-## Hands on: advanced
-
-You may need to research some other selectors and properties
-Based on this HTML:
-
-```html
-<ul>
-  <li><a href="#">Colombia</a></li>
-  <li><a href="#">Venezuela</a></li>
-  <li><a href="#">Uruguay</a></li>
-  <li><a href="#">Argentina</a></li>
-  <li><a href="#">España</a></li>
-  <li><a href="#">Paraguay</a></li>
-  <li><a href="#">Ecuador</a></li>
-</ul>
-```
-
-And this incomplete CSS (note the `____` selector)
-
-```css
-ul {
-  padding: 0;
-}
-
-li {
-  padding: 3px;
-  margin-bottom: 5px;
-  list-style-type: none;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-}
-
-____{
-  text-decoration: underline;
-  color: red;
-}
-
-____ {
-  background-color: #ccc;
-}
-
-____ {
-  background-color: #eee;
-}
-```
-
-1. Change `____` and write the required selector to create a zebra-stripped list
-1. Change the style on the links to display an underline on hover.
+1. [Use a CSS Class to Style an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element)
+1. [Style Multiple Elements with a CSS Class](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class)
+1. [Change the Font Size of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element)
+1. [Set the Font Family of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-font-family-of-an-element)
+1. [Import a Google Font](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font)
+1. [Specify How Fonts Should Degrade](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/specify-how-fonts-should-degrade)
+1. [Size Your Images](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images)
+1. [Add Borders Around Your Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-around-your-elements)
+1. [Add Rounded Corners with border-radius](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-corners-with-border-radius)
+1. [Make Circular Images with a border-radius](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/make-circular-images-with-a-border-radius)
+1. [Give a Background Color to a div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/give-a-background-color-to-a-div-element)
+1. [Use Attribute Selectors to Style Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements)
 
 # 03. CSS box model and units
 
@@ -608,6 +563,20 @@ div {
      Content box height: 80px - (2 * 20px) - (2 * 8px) = 24px */
 }
 ```
+
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Set the id of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element)
+1. [Use an id Attribute to Style an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element)
+1. [Adjust the Padding of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
+1. [Adjust the Margin of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element)
+1. [Add Different Padding to Each Side of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element)
+1. [Add Different Margins to Each Side of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
+1. [Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element)
+1. [Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
+1. [Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
 
 # 04. CSS cascade and inheritance
 
