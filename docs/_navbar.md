@@ -1,43 +1,42 @@
 * Prework
-
-  * [Basic file system knowledge](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=basic-file-system-knowledge)
-  * [How the web works?](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=how-the-web-works)
-  * [Front End Developer](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=front-end-developer)
-  * [The command line](https://mfrcodingproject.github.io/students_material/#/en/00_fundamentals?id=the-command-line-or-terminal-interface)
+  * <a href="#/en/00_fundamentals?id=basic-file-system-knowledge">Basic file system knowledge</a>
+  * <a href="#/en/00_fundamentals?id=how-the-web-works">How the web works?</a>
+  * <a href="#/en/00_fundamentals?id=front-end-developer">Front End Developer</a>
+  * <a href="#/en/00_fundamentals?id=the-command-line-or-terminal-interface">The command line</a>
 
 * HTML
-  * [Introduction to HTML](https://mfrcodingproject.github.io/students_material/#/en/01_html?id=_01-introduction-to-html)
-  * [HTML structure and basic tags](https://mfrcodingproject.github.io/students_material/#/en/01_html?id=_02-html-structure-and-basic-tags)
-  * [HTML advanced elements and properties](https://mfrcodingproject.github.io/students_material/#/en/01_html?id=_03-html-advanced-elements-and-properties)
-  * [Forms](https://mfrcodingproject.github.io/students_material/#/en/01_html?id=_04-forms)
+  * <a href="#/en/01_html?id=_01-introduction-to-html">Introduction to HTML</a>
+  * <a href="#/en/01_html?id=_02-html-structure-and-basic-tags">HTML structure and basic tags</a>
+  * <a href="#/en/01_html?id=_03-html-advanced-elements-and-properties">HTML advanced elements and properties</a>
+  * <a href="#/en/01_html?id=_04-forms">Forms</a>
 
 * CSS
-  * [Introduction to CSS](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_01-introduction-to-css)
-  * [Selectors](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_02-css-selectors)
-  * [Box model and units](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_03-css-box-model-and-units)
-  * [Cascade and inheritance](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_04-css-cascade-and-inheritance)
-  * [Layout](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_05-css-layout)
-  * [RWD](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_06-css-responsive)
-  * [Transitions and animations](https://mfrcodingproject.github.io/students_material/#/en/02_css?id=_07-css-transitions-and-animations)
+  * <a href="#/en/02_css?id=_01-introduction-to-css">Introduction to CSS</a>
+  * <a href="#/en/02_css?id=_02-css-selectors">Selectors</a>
+  * <a href="#/en/02_css?id=_03-css-box-model-and-units">Box model and units</a>
+  * <a href="#/en/02_css?id=_04-css-cascade-and-inheritance">Cascade and inheritance</a>
+  * <a href="#/en/02_css?id=_05-css-layout">Layout</a>
+  * <a href="#/en/02_css?id=_06-css-responsive">RWD</a>
+  * <a href="#/en/02_css?id=_07-css-transitions-and-animations">Transitions and animations</a>
 
 * Javascript
-  * [Introduction to Javascript](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_01-introduction-to-javascript)
-  * [Developer Tools](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_02-developer-tools)
-  * [Javascript tools](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_03-javascript-tools)
-  * [Events and the DOM](https://mfrcodingproject.github.io/students_material/#/en/03_javascript-begginer?id=_04-events-and-the-dom)
+  * <a href="#/en/03_javascript-begginer?id=_01-introduction-to-javascript">Introduction to Javascript</a>
+  * <a href="#/en/03_javascript-begginer?id=_02-developer-tools">Developer Tools</a>
+  * <a href="#/en/03_javascript-begginer?id=_03-javascript-tools">Javascript tools</a>
+  * <a href="#/en/03_javascript-begginer?id=_04-events-and-the-dom">Events and the DOM</a>
 
 * Advanced UI
-  * [Custom Properties](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_01-custom-properties)
-  * [Sass](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_02-sass)
-  * [Advanced Sass](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_03-advanced-sass)
-  * [Advanced HTML](https://mfrcodingproject.github.io/students_material/#/en/04_ui-advanced?id=_04-advanced-html)
+  * <a href="#/en/04_ui-advanced?id=_01-custom-properties">Custom Properties</a>
+  * <a href="#/en/04_ui-advanced?id=_02-sass">Sass</a>
+  * <a href="#/en/04_ui-advanced?id=_03-advanced-sass">Advanced Sass</a>
+  * <a href="#/en/04_ui-advanced?id=_04-advanced-html">Advanced HTML</a>
 
 * Advanced JS
-  * [Arrays in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_01-arrays-in-depth)
-  * [Functions in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_02-functions-in-depth)
-  * [Objects in depth](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_03-objects-in-depth)
-  * [Api calls](https://mfrcodingproject.github.io/students_material/#/en/05_javascript?id=_04-api-calls)
+  * <a href="#/en/05_javascript?id=_01-arrays-in-depth">Arrays in depth</a>
+  * <a href="#/en/05_javascript?id=_02-functions-in-depth">Functions in depth</a>
+  * <a href="#/en/05_javascript?id=_03-objects-in-depth">Objects in depth</a>
+  * <a href="#/en/05_javascript?id=_04-api-calls">Api calls</a>
 
 * Git
-  * [Git](https://mfrcodingproject.github.io/students_material/#/en/07_git?id=git)
-  * [Three Doors Exercise](https://mfrcodingproject.github.io/students_material/#/en/07_git?id=three-doors-exercise)
+  * <a href="#/en/07_git?id=git">Git</a>
+  * <a href="#/en/07_git?id=three-doors-exercise">Three Doors Exercise</a>
