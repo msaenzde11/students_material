@@ -163,6 +163,8 @@ You will be using these constantly from this point on, so feel free to print the
 
 ## Exercises
 
+Get into [this online console](https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora29-riscv-2.cfg&mem=256) and wait until `[root@localhost ~]#` appears. Then follow these steps:
+
 - Print the name of the folder you’re in
 - Show a list all of the files that are in this folder
 - Make a new folder and call it `madrid_for_refugees`
@@ -178,4 +180,4 @@ You will be using these constantly from this point on, so feel free to print the
 - Go to your `Projects` folder and delete all the files
 - Delete the `Projects` directory
 
-If you feel like this is too little for you, take a look at [this github repository](https://github.com/scottjoseph/cmd-exercises) full of cli exercises!
+If you feel like this is too little for you, take a look at [this github repository](https://github.com/scottjoseph/cmd-exercises) full of cli exercises! If however you still have doubts, don't worry! You will be learning it while going through the course and you can also [check this game](https://linuxsurvival.com/)! :)
