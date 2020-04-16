@@ -9,6 +9,8 @@ These instructions are known as code, and computer programmers write code to sol
 The end goal is to create something that could mean anything: from a web page, or a piece of software, or even just a pretty picture. That’s why computer programming is often described as a mix between art and science; it’s technical and analytical, yet creative at the same time.
 
 This video explain pretty well the concept of programming:
+___
+
 [![What is Programming?](http://img.youtube.com/vi/FCMxA3m_Imc/0.jpg)](http://www.youtube.com/watch?v=FCMxA3m_Imc "What is Programming?")
 
 [What is Programming?](https://www.youtube.com/watch?v=FCMxA3m_Imc)
@@ -157,6 +159,17 @@ A multi-line comment is written between the strings /* and */, e.g.
 */
 
 ```
+
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com).
+
+1. [Use the JavaScript Console to Check the Value of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)
+1. [Catch Misspelled Variable and Function Names](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)
+1. [Catch Unclosed Parentheses, Brackets, Braces and Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)
+1. [Catch Arguments Passed in the Wrong Order When Calling a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function)
+1. [Catch Off By One Errors When Using Indexing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)
+1. [Prevent Infinite Loops with a Valid Terminal Condition](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition)
 
 # 03. Javascript tools
 
@@ -314,7 +327,7 @@ const product5 = 'Shoes';
 const productList = ['Toilet paper', 'Scissors', 'Tomatoes', 'Towels', 'Shoes'];
 ```
 
-An array can sabe multiple values:
+An array can store multiple values:
 
 ```javascript
 var random = ['tree', 795, [0, 1, 2]];
@@ -381,6 +394,47 @@ random();
 add(2, 3);
 ```
 
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com). They might seem a lot, but we think it's important that you start familiarizing with all these new concepts. All of them are really important and will be of use on a daily basis. Feel free to complete the rest of the section on FreeCodeCamp if you feel like it. The more the better!
+
+### Basic JS Exercises
+1. [Declare Javascript variables](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
+1. [Initializing variables with the assignment operator](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)
+1. [Understanding case sensitivity in variables](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
+1. [Finding a remainder in Javascript](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)
+1. [Compound assignment with augmented addition](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition)
+1. [Concatenating strings with Plus Operator](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator)
+1. [Constructing strings with variables](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)
+1. [Use bracket notation to find the first character in a string](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string)
+
+### Array exercises
+1. [Store multiple values in one variable using javascript arrays](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
+1. [Nest one array within another array](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
+1. [Access Multi-Dimensional Arrays With Indexes](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
+1. [Manipulate Arrays With push()](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)
+1. [Manipulate Arrays With pop()](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)
+1. [Manipulate Arrays With shift()](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)
+1. [Manipulate Arrays With unshift()](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)
+
+### Function exercises
+1. [Write Reusable JavaScript with Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)
+1. [Passing Values to Functions with Arguments](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments)
+1. [Global Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
+1. [Local Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
+1. [Global vs. Local Scope in Functions](freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs.-local-scope-in-functions)
+1. [Return a Value from a Function with Return](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
+
+### Conditional statements exercises
+1. [Comparison with the Equality Operator](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)
+1. [Comparison with the Strict Equality Operator](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator)
+1. [Practice comparing different values](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)
+1. [Use Conditional Logic with If Statements](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements)
+1. [Logical Order in If Else Statements](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)
+1. [Chaining If Else Statements](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+
+Next, you will find a series of exercises that summarize what you've learnt throughout this lesson. Try to do them on your own, we haven't introduced anything new and all of them just go through what you've seen until this section. Remember you can always ask any staff member on Slack. Give it a try!
+
 ## Hands on!
 
 ### Exercise 1 - The Lifetime Supply Calculator
@@ -388,7 +442,7 @@ add(2, 3);
 How many potatoes will a person eat until the end of his life? Discover yourself!
 
  1. Store the persons current age into a variable.
- 1. Store an stimated maximum age into a variable.
+ 1. Store an estimated maximum age into a variable.
  1. Store an estimated amount per week (as a number).
  1. Calculate how many weeks will happen until the end of this person life.
  1. Calculate how many potatoes would eat total for the rest of his life.
@@ -396,9 +450,9 @@ How many potatoes will a person eat until the end of his life? Discover yourself
 
 ### Exercise 2 - True or false
 
-Using promp, variables and **conditionals**, ask questions to the users and display the result on the console.
+Using prompt, variables and **conditionals**, ask questions to the users and display the result on the console.
 
-  1. Ask: "Tomatos are fruits, not vegetables: true or false". If that answer is "true" you show "correct", otherwise show "incorrect".
+  1. Ask: "Tomatoes are fruits, not vegetables: true or false". If that answer is "true" you show "correct", otherwise show "incorrect".
   1. Ask: "You should drink 8 glasses of water: true or false". If that answer is "false" you show "correct", otherwise show "incorrect".
   1. Ask: "Fishes have only three seconds of memory: true or false". If that answer is "false" you show "correct", otherwise show "incorrect".
   1. Ask: "The Great Wall of China is the only man made structure visible from space
