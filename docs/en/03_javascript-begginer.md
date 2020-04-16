@@ -420,9 +420,6 @@ add(2, 3);
 ### Function exercises
 1. [Write Reusable JavaScript with Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)
 1. [Passing Values to Functions with Arguments](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments)
-1. [Global Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
-1. [Local Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
-1. [Global vs. Local Scope in Functions](freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs.-local-scope-in-functions)
 1. [Return a Value from a Function with Return](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
 
 ### Conditional statements exercises

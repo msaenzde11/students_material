@@ -9,7 +9,7 @@ We should know by now how to use a `for` loop and call the `.forEach` function w
 
 These forms of iterating over arrays and manipulating them are ok in most cases, and you could easily do pretty much everything you need with those two types of loops, but there's another way with which you can save a lot of code while keeping your codebase clean and [avoid mutating your arrays](https://www.freecodecamp.org/news/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84/) (more on this later).
 
-Javascript lets us do three basic operations with three different methods that we're going to teach you right now. These three functions have all one thing in common, and that is that they are [Higher order functions](https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/). Don't worry if you don't understand that concept now, just remember that all three work exactly the same: They are **functions** that accept another function as their parameter (or **[callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)**). 
+Javascript lets us do three basic operations with three different methods that we're going to teach you right now. These three functions have all one thing in common, and that is that they are [Higher order functions](https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/). Don't worry if you don't understand that concept now, just remember that all three work exactly the same: They are **functions** that accept another function as their parameter (or **[callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)**).
 
 Let's see them in action!
 
@@ -140,6 +140,7 @@ const multiplicationOfNums = nums.reduce((accum, num) => {
 console.log(multiplicationOfNums); // 2367217302384
 
 ```
+
 
 This might seem confusing at first, but everything will be crystal clear once you start practicing with a few exercises! 💻
 
@@ -367,6 +368,15 @@ const booksList = [
 // Expected result --> 55
 ```
 
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com).
+
+1. [Use the map Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
+1. [Seek and Destroy](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
+1. [Sum All Numbers in a Range](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range)
+1. [Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem)
+
 # 02. Functions in depth
 
 A good programming language is more that just a mean for instructing a computer to perform tasks. It also help us think about the processes, by providing a way to **combine simple ideas to form more complex ones**.
@@ -556,6 +566,16 @@ closure(); // returns 3
 
 In this example, the function `counter` takes no arguments and returns a function (we can do that, since functions are first-class citizens in JavaScript!). The returned function, when called without arguments, will increase the value of `count`, which is not visible from outside the function, but has been "captured" by the function and can use it. The `count` variable is not free anymore, and we have formed what we call a *closure*.
 
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com).
+
+1. [Use Arrow Functions to Write Concise Anonymous Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions)
+1. [Write Arrow Functions with Parameters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters)
+1. [Global Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
+1. [Local Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
+1. [Global vs. Local Scope in Functions](freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs.-local-scope-in-functions)
+
 # 03. Objects in depth
 
 In the same way that functions abstract processes, objects abstract data. Objects can contain many values, and they are written as `property: value` pairs.
@@ -666,6 +686,23 @@ console.log(b);  // 20
 console.log(rest);  // [30, 40, 50]
 ```
 
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com).
+
+1. [Create a Basic JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object)
+1. [Use Dot Notation to Access the Properties of an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object)
+1. [Make Code More Reusable with the this Keyword](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword)
+1. [Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function)
+1. [Use a Constructor to Create Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-constructor-to-create-objects)
+1. [Understand the Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property)
+1. [Use Closure to Protect Properties Within an Object from Being Modified Externally](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally)
+1. [Use the Rest Parameter with Function Parameters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-rest-parameter-with-function-parameters)
+1. [Use the Spread Operator to Evaluate Arrays In-Place](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)
+1. [Use Destructuring Assignment to Extract Values from Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-extract-values-from-objects)
+1. [Use Destructuring Assignment to Assign Variables from Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects)
+1. [Use Destructuring Assignment to Assign Variables from Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays)
+
 # 04. API Calls
 
 We can retrieve information that is not already present in our JavaScript program by means of making an *external call*, that is, sending a request to a remote server and then retrieving the answer
@@ -767,7 +804,7 @@ fetch('https://dog.ceo/api/breeds/image/random')
 
 ```
 
-### Exercise 2 | Chihuahuas, Chihuahuas everywhere
+## Exercise 2 | Chihuahuas, Chihuahuas everywhere
 
 Let's keep playing with the [Dog API](https://dog.ceo/dog-api/):
 
@@ -775,7 +812,7 @@ a) Modify the previous example so that the photos of our page only appear dogs o
 
 b)  Wncapsulate all the logic to create a request in a function. Add a button with the text 'Show me another Chihuahua' so that when pressed, another request is made to the server of a random image and a new image of Chihuaua appears.
 
-### Exercise 3 | Github User
+## Exercise 3 | Github User
 
 Let's explore a new API: [the GitHub user API](https://developer.github.com/v3/users/).
 
@@ -786,7 +823,7 @@ We are going to create a page with a text input and a search button. The user wi
 - number of repositories
 - avatar (image)
 
-### Exercise 4 | Github User no Found
+## Exercise 4 | Github User no Found
 
 Now, use the .catch for show a message when doesn't exist the user.
 
@@ -806,7 +843,7 @@ fetch('https://jsonplaceholder.typicode.com/404')
   .catch(console.error)
 ```
 
-### Exercise 5 | Github Repository list
+## Exercise 5 | Github Repository list
 
 List the repos of an organization in Github
 
@@ -814,7 +851,7 @@ Let's continue exploring the GitHub API by exploring the part of the API to acce
 
 The objective of this exercise is to display on a website the complete list of repositories of an organization that are created in GitHub.
 
-### Exercise 6 | Method post
+## Exercise 6 | Method post
 
 This is a fetch with post method.
 
@@ -850,7 +887,7 @@ And we use the header for send information about the information how the format 
         });
 ```
 
-### Exercise 7 | Extra Exercise, Real Example
+## Exercise 7 | Extra Exercise, Real Example
 
 Firebase is one platform where we can host static web page and little json data base and more.
 
