@@ -687,3 +687,14 @@ Cómo hacerlo:
     2.2 Si es mayor: Avisa al usuario que se ha pasado, restale una vida y continúa.
     3.3 Si es menor: Avisa al usuario que se ha ido por arriba, restale una vida y continúa.
 7. Si el usuario llega a 10 intentos, avísale que ha perdido y reinicia todos los valores.
+
+# Basic JS Section project
+
+Oh my! You're halfway through already! You should be proud of yourself. We're not kidding. Programming is a tough task and you should treasure all the effort you've put into this course. We're sure that if you look back now, you won't believe what you've achieved in this little time. But there's so much more!
+
+In this section we're going to do something different. We're going to propose two exercises instead of just one. One of them will be mandatory to complete the course, the other one (the exercise marked as bonus) will be optional. We encourage you to do it since it will teach you how to think in a logical way, something that can be very useful sometimes. However, since it's not the main focus of this course, we'll let you decide whether you want to complete it or not. If you feel like you want to do it but you're not sure how, ask any of the stuff and we'll be thrilled to help you!
+
+The mandatory exercise merges all you have learnt throughout the course, having to apply your knowledge in HTML, CSS and JS. Remember that if you get stuck, you can ask as at any point and we'll help you gladly. Good luck!
+
+1. [Build a random quote machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+2. [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)(Bonus)

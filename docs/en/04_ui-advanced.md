@@ -463,3 +463,11 @@ Pug playground here: https://pug.now.sh/
 ## Hands on
 
 Convert your code into pug templates and compile it.
+
+# Advanced UI project
+
+We can't believe you're already here. I mean, we do, you've worked really hard to do this and again, you shoud be proud. In this section. we're going to revisit the first project you did (remember that personal portfolio that you are going to use for your personal projects? 😏) and give to it a different flavour.
+
+The objective of this practice is to apply what you've learnt in this section, replace all the CSS with SASS and maybe even use those custom properties that we all love so much. Maybe you can even use Pug if you want. Let your imagination fly!
+
+> There is no Freecodecamp link this time. Use the same project you have for your portfolio. Maybe create a different branch to prevent the whole project to be changed and start working from there. Good luck!
