@@ -547,7 +547,7 @@ div {
   background: yellow;
 }
 
-.content-box { 
+.content-box {
   box-sizing: content-box;
   /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
      Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
@@ -597,7 +597,7 @@ p {
 
 ## Specificity
 
-Specificity is basically a measure of how specific a selector is — how many elements it could match. As shown in the example seen above, element selectors have low specificity. Class selectors have a higher specificity, so will win against element selectors. ID selectors have an even higher specificity, so will win against class selectors. 
+Specificity is basically a measure of how specific a selector is — how many elements it could match. As shown in the example seen above, element selectors have low specificity. Class selectors have a higher specificity, so will win against element selectors. ID selectors have an even higher specificity, so will win against class selectors.
 
 ## !important
 
@@ -638,6 +638,17 @@ a {
   color: initial;
 }
 ```
+
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Inherit styles from the body element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-styles-from-the-body-element)
+1. [Prioritize one style over another](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/prioritize-one-style-over-another)
+1. [Override styles in subsequent CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css)
+1. [Override class declarations by styling ID attributes](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes)
+1. [Override class declarations with inline styles](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-with-inline-styles)
+1. [Override all other styles by using importants](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important)
 
 # 05. CSS layout
 
@@ -843,6 +854,23 @@ Actually, flex property is just a shorthand of the properties.
 }
 ```
 
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Change an element's relative position](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
+1. [Move a relatively positioned element with CSS offsets](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets)
+1. [Lock an element to its parent with absolute positioning](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning)
+1. [Lock an element to the browser window with fixed positioning](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning)
+1. [Center an element horizontally using the margin property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property)
+1. [Use `display: flex` to position two boxes](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+1. [Add flex superpowers to the tweet embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed)
+1. [Apply the `flex-direction` property to create rows in the tweet embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
+1. [Apply the `flex-direction` property to create a column in the tweet embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+1. [Use the `justify-content` property in the tweet embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
+1. [Use the `align-items` property in the tweet embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
+1. [Use the `align-self` property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
+
 # 06. CSS responsive
 
 It is fairly common to create a Web site or app that changes its user interface depending on the browser or device accessing the site to provide an optimized experience.
@@ -911,11 +939,21 @@ The logical operators `not`, `and`, and `only` can be used to compose a complex 
 }
 ```
 
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Understand absolute versus relative units](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units)
+1. [Create a media query](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query)
+1. [Make an image responsive](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
+1. [Use a retina image for higher resolution displays](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays)
+1. [Make typography responsive](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
+
 # 07. CSS transitions and animations
 
-It is common when developing a website to add some interactive information using transitions or animations to improve the user experience and display some beuatiful interactions.
+It is common when developing a website to add some interactive information using transitions or animations to improve the user experience and display some beautiful interactions.
 
-Developers use two different techniches depending on what type of animation do they need: CSS transitions and CSS animations. While CSS transitions are somehow animations, these are much simpler tha the latter. Animations can be very advanced.
+Developers use two different techniques depending on what type of animation do they need: CSS transitions and CSS animations. While CSS transitions are somehow animations, these are much simpler tha the latter. Animations can be very advanced.
 
 ## Transitions
 
@@ -1056,7 +1094,7 @@ The animation-timing-function CSS property sets how an animation progresses thro
 
 #### animation-delay
 
-The animation-delay CSS property sets when an animation starts. 
+The animation-delay CSS property sets when an animation starts.
 
 ```css
 [selector] {
@@ -1147,3 +1185,18 @@ So imagine your animation has multiple steps.
 ```
 
 In this case there are some properties that are not set in every step. That is correct, the property will interpolate until the next step where is set or finish if no more interpolations are available.
+
+## Exercises on FreecodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreecodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com)
+
+1. [Learn how the CSS keyframes and animation properties work](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
+1. [Use CSS animation to change the hover state of a button](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button)
+1. [Modify fill mode of an animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
+1. [Create movement using CSS animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-movement-using-css-animation)
+1. [Create visual direction by fading an element from left to right](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right)
+1. [Animate elements continually using an infinite animation count](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count)
+1. [Make a CSS heartbeat using an infinite animation count](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
+1. [Animate elements at variable rates](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-elements-at-variable-rates)
+1. [Animate multiple elements at variable rates](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates)
+1. [Change animation timing with keywords](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-animation-timing-with-keywords)

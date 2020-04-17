@@ -103,6 +103,18 @@ div {
 
 ```
 
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com).
+
+1. [Use CSS Variables to change several elements at once](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
+1. [Create a custom CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-custom-css-variable)
+1. [Use a custom CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-custom-css-variable)
+1. [Attach a Fallback value to a CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
+1. [Inherit CSS Variables](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables)
+1. [Change a variable for a specific area](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-variable-for-a-specific-area)
+1. [Use a media query to change a variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+
 # 02. Sass
 
 !> Please open this website to follow this lesson: https://www.sassmeister.com/
@@ -342,6 +354,17 @@ A mixin might not receive arguments.
     @include large-font;
 }
 ```
+
+## Exercises on FreeCodeCamp
+
+!> These exercises are required to complete MFR coding project. Please login into your FreeCodeCamp profile to save the advance. If you have any problems, contact the teachers in [Slack](mfrcodingproject.slack.com).
+
+1. [Create Reusable CSS with Mixins](freecodecamp.org/learn/front-end-libraries/sass/create-reusable-css-with-mixins)
+1. [Use @if and @else to Add Logic To Your Styles](https://www.freecodecamp.org/learn/front-end-libraries/sass/use-if-and-else-to-add-logic-to-your-styles)
+1. [Use @for to Create a Sass Loop](https://www.freecodecamp.org/learn/front-end-libraries/sass/use-for-to-create-a-sass-loop)
+1. [Use @each to Map Over Items in a List](https://www.freecodecamp.org/learn/front-end-libraries/sass/use-each-to-map-over-items-in-a-list)
+1. [Split Your Styles into Smaller Chunks with Partials](https://www.freecodecamp.org/learn/front-end-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)
+1. [Extend One Set of CSS Styles to Another Element](https://www.freecodecamp.org/learn/front-end-libraries/sass/extend-one-set-of-css-styles-to-another-element)
 
 ## Hands on
 
