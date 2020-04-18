@@ -1,4 +1,4 @@
-****# 01. Custom Properties
+# 01. Custom Properties
 
 **Custom properties** (sometimes referred to as CSS variables) are variables defined by CSS authors that contain specific values to be reused throughout a document (similar to JS variables). They are set using custom property notation (e.g., `--main-color: black;`) and are accessed using the var() function (e.g., `color: var(--main-color);`).
 
