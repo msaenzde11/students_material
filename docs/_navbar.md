@@ -41,6 +41,10 @@
   * <a href="#/en/05_javascript?id=_03-objects-in-depth">Objects in depth</a>
   * <a href="#/en/05_javascript?id=_04-api-calls">Api calls</a>
 
+* VueJS
+  * <a href="#/en/06_vueJS?id=_01-vuejs">Official Vue Documentation</a>
+  * <a href="#/en/06_vueJS?id=vue-project">Section project</a>
+
 * Git
   * <a href="#/en/07_git?id=git">Git</a>
   * <a href="#/en/07_git?id=three-doors-exercise">Three Doors Exercise</a>
