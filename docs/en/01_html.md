@@ -555,8 +555,15 @@ elements of type radio  are similar to checkboxes with the singularity that only
 1. [Use the value attribute with Radio Buttons and Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
 1. [Check Radio Buttons and Checkboxes by Default](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default)
 
-# HTML section exercises
+# HTML section projects
 
-1. 
+Well! Congratulations! You reached the end of the first section. Hopefully you feel like you learnt a ton already but still you have the feeling that there's so much more to learn. And that's right. This is a feeling that accompanies us all, whether you have 0 or 20 years of experience. But that's a good thing! And sure it's exciting 😄.
+
+Now that you know a little bit more about HTML, we've linked here a couple of projects from FreeCodeCamp. They're quite similar to the exercises you've done before, but they should take you a little bit more time to complete. We'll include these projects at the end of each section. They'll be related to the topic you'll have learnt in each case, to make sure you've grasped everything we need you to know to complete this course.
+
+As always, even though is better for you if you try to complete the exercise on your own, don't hesitate to ask any of the staff if you get stuck. We're here to help!
+
+Good luck! And we really hope you enjoy making these projects!
+
 1. [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
-1. [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+1. [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)

@@ -810,7 +810,7 @@ Let's keep playing with the [Dog API](https://dog.ceo/dog-api/):
 
 a) Modify the previous example so that the photos of our page only appear dogs of the Chihuahua breed.
 
-b)  Wncapsulate all the logic to create a request in a function. Add a button with the text 'Show me another Chihuahua' so that when pressed, another request is made to the server of a random image and a new image of Chihuaua appears.
+b)  Encapsulate all the logic to create a request in a function. Add a button with the text 'Show me another Chihuahua' so that when pressed, another request is made to the server of a random image and a new image of Chihuahua appears.
 
 ## Exercise 3 | Github User
 
