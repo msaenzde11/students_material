@@ -85,6 +85,8 @@ Believe it or not, before the world of windows, tabs, docks and menu bars, the o
 You will be using these constantly from this point on, so feel free to print them out on a cheat sheet.
 
 ### ls
+[Tutorial - ls command](https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/
+)
 
 - **What it does**: List files.
 - **Detail**: If you don't provide a folder it will look in the current folder. Often it's useful to see the list in a vertical format. You can do that using the `-l`. option. Also sometimes you need to see the hidden files. Use `a` option.
@@ -93,6 +95,7 @@ You will be using these constantly from this point on, so feel free to print the
   - `ls -alh`: list contents of the current directory vertically, including hidden ones.
 
 ### cd
+[Tutorial - cd command](https://www.computerhope.com/unix/ucd.htm)
 
 - **What it does**: Change into another directory.
 - **Detail**: Can go up one level in the directory tree by using `..`.
@@ -102,6 +105,7 @@ You will be using these constantly from this point on, so feel free to print the
   - `cd ../../other`: Go up two levels and change to the other directory.
 
 ### mkdir
+[Tutorial - mkdir command](https://www.geeksforgeeks.org/mkdir-command-in-linux-with-examples/)
 
 - **What it does**: Create an empty directory.
 - **Detail**: Can use `-p` option to make multiple sub-directories quickly.
@@ -110,6 +114,8 @@ You will be using these constantly from this point on, so feel free to print the
   - `mkdir -p work/mfr/assignment1`: Create the `work/` with `mfr/assignment1` directories inside.
 
 ### rm
+[Tutorial - rm](https://www.geeksforgeeks.org/rm-command-linux-examples/
+)
 
 - **What it does**: Remove a file or directory.
 - **Detail**: Use `-r` option for deleting directories.
@@ -118,6 +124,7 @@ You will be using these constantly from this point on, so feel free to print the
   - `rm -rf work/mfr/assignment1`: Delete the `work/mfr/assignment1` directory.
 
 ### cp
+[Tutorial - cp command](https://www.geeksforgeeks.org/cp-command-linux-examples/)
 
 - **What it does**: Copy a file or directory.
 - **Detail**: Takes two parameters: source and destination. Can use wildcard in source `*` to copy files that match a pattern. Use `-r` option for directories.
@@ -127,6 +134,7 @@ You will be using these constantly from this point on, so feel free to print the
   - `cp stuff/ stuff-copy`: Copies the `stuff/` directory as the `stuff-copy/` directory.
 
 ### mv
+[Tutorial - mv command](https://www.geeksforgeeks.org/mv-command-linux-examples/)
 
 - **What it does**: Move and/or rename a file or directory.
 - **Detail**: Takes two parameters: source and destination. Can use wildcard in source `*` to move files that match a pattern. If the destination is a folder, it will move the files into the folder and leave the file's name unchanged.
@@ -136,6 +144,7 @@ You will be using these constantly from this point on, so feel free to print the
   - `mv stuff/*.html html-files/`: Moves all files in `stuff/` that end in `.html` into the `html-files/` folder.
 
 ### touch
+[Tutorial - touch command](https://www.geeksforgeeks.org/touch-command-in-linux-with-examples/)
 
 - **What it does**: Create a new empty file.
 - **Detail**: Takes one parameter, the name of the file. You can create multiple files at once by putting more than one name.
@@ -143,18 +152,18 @@ You will be using these constantly from this point on, so feel free to print the
   - `touch newfile.txt`
   - `touch file1.txt file2.txt file3.txt`
 
-### open
+### cat
+[Tutorial - cat command](https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/)
 
-- **What it does**: Open a file or directory.
-- **Detail**: Takes one parameter file or folder to open. If we don't specify an app it will open the file with the default application for that file-type. We can choose the program we want to use adding `-a appName` between `open` and `filename`. We can also open more than one file at a time concatenating files.
+- **What it does**: View contain of file.
+- **Detail**: Syntax: cat [OPTION] [FILE]. It reads data from the file and gives their content as output (also another actions).
 - **Examples**:
-  - `open myFile1`: Opens myFile1
-  - `open myDirectory`: Opens myDirectory
-  - `open myFile1 myFile2 myFile3`: Opens myFile1, myFile2 and myFile3
-  - `open -a appName myFile1`: Opens myFile1 with appName
-  - `open .`: Opens current directory
+  - `cat index.html`: Prints content of file index.html in the terminal
+  - `cat -n song.txt`: Prints content of song.txt with line numbers in the terminal
+  - `cat myFile1 myFile2 myFile3`: Opens myFile1, myFile2 and myFile3
 
 ### pwd
+[Tutorial - pwd command](https://www.geeksforgeeks.org/pwd-command-in-linux-with-examples/)
 
 - **What it does**: Show the current directory.
 - **Detail**: Short for *print working directory*, not password (I know!). Doesn't take any options, just use it as-is to remind yourself where you are.
