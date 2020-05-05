@@ -170,8 +170,7 @@ You will be using these constantly from this point on, so feel free to print the
 - **Examples**:
   - pwd
 
-## Exercises
-
+## Exercises - CLI
 Get into [this online console](https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora29-riscv-2.cfg&mem=256) and wait until `[root@localhost ~]#` appears. Then follow these steps:
 
 - Print the name of the folder you’re in
@@ -190,3 +189,12 @@ Get into [this online console](https://bellard.org/jslinux/vm.html?cpu=riscv64&u
 - Delete the `Projects` directory
 
 If you feel like this is too little for you, take a look at [this github repository](https://github.com/scottjoseph/cmd-exercises) full of cli exercises! If however you still have doubts, don't worry! You will be learning it while going through the course and you can also [check this game](https://linuxsurvival.com/)! :)
+
+## Exercises - Hello World HTML
+
+Learning HTML & CSS is essential for any web developer! We'll study more about this during the course, but first of all we are going to have a first experience building a simple web page using HTML with two exercises. Don't worry! Everything is detailed on the exercises and has a console to run your code. Good luck!
+
+- [Ex 1 - Hello world!](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements)
+- [Ex 2 - Inserting image](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-images-to-your-website)
+
+
