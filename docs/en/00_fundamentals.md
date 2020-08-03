@@ -170,7 +170,7 @@ You will be using these constantly from this point on, so feel free to print the
 - **Examples**:
   - pwd
 
-!> **Advanced reading** An extense begginer tutorial for people who are wanting to travel into the matrix for the first time and experience computers from the mysterious puzzle world of the command line interface (CLI). [Terminal for beginners!](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
+!> **Advanced reading** An extense beginner tutorial for people who are wanting to travel into the matrix for the first time and experience computers from the mysterious puzzle world of the command line interface (CLI). [Terminal for beginners!](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
 ## Exercises - CLI
 Get into [this online console](https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora29-riscv-2.cfg&mem=256) and wait until `[root@localhost ~]#` appears. Then follow these steps:
