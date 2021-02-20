@@ -3,6 +3,7 @@
   * <a href="#/en/00_fundamentals?id=how-the-web-works">How the web works?</a>
   * <a href="#/en/00_fundamentals?id=front-end-developer">Front End Developer</a>
   * <a href="#/en/00_fundamentals?id=the-command-line-or-terminal-interface">The command line</a>
+  * <a href="#/en/MFR%20Prework%20v2%20bf2f2c44f7f44a3f869dfb8a06349b60">New prework</a>
 
 * HTML
   * <a href="#/en/01_html?id=_01-introduction-to-html">Introduction to HTML</a>
