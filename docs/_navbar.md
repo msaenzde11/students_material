@@ -5,7 +5,7 @@
   * <a href="#/en/00_fundamentals?id=the-command-line-or-terminal-interface">The command line</a>
 
 * Prework new
-  * <a href="#/en/MFR Prework v2 bf2f2c44f7f44a3f869dfb8a06349b60">New prework</a>
+  * <a href="#/en/Prework_v2?id=introduction">Prework V2</a>
 
 * HTML
   * <a href="#/en/01_html?id=_01-introduction-to-html">Introduction to HTML</a>
